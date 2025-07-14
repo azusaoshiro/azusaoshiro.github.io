@@ -1,1 +1,7 @@
-
+theme: jekyll-theme-slate
+title: The homepage of Azusa Oshiro, master's student in tourism studies
+description: Graduate school student's blog
+plugins:
+  - jemoji
+url: "https://azusaoshiro.github.io/&quot;
+markdown: kramdown
