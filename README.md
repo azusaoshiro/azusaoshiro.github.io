@@ -1,3 +1,3 @@
 # azusaoshiro.github.io
 
-Grad school student's blog
+I am a master's student in IMACTS. My major is tourism.
